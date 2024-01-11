@@ -14,7 +14,7 @@ Before running this script, make sure you have the following:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/chatGPT-api-script.git
+    git clone https://github.com/AdamB64/chat.git
     ```
 
 2. Create a `.env` file in the root directory of the cloned repository.
