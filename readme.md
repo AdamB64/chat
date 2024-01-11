@@ -44,7 +44,3 @@ To use this script, follow these steps:
 ## Contributing
 
 If you would like to contribute to this project and make it functional, feel free to clone this repository and work on it. Make sure to create your own `.env` file with your OpenAI API key.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
